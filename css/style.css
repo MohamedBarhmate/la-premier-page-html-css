@@ -1,0 +1,44 @@
+.bloc1{
+    font-family: 'Climate Crisis', cursive;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 3em;
+}
+.bloc2{
+
+    background-color: black; 
+}
+
+.bloc2 img{
+    display: flex;
+    margin: auto;
+}
+.bloc3{
+    font-family: 'Climate Crisis', cursive;
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+}
+.bloc4{
+    
+    background: black;
+    text-align: center;
+    font-size: 4em;
+    
+}
+li{
+
+    list-style: none;
+    color: black;
+    margin: auto;
+    padding: 0px;
+    background-color: white;
+    width: max-content;
+    border-bottom: 3px black solid;
+}
+
+
+
+   
